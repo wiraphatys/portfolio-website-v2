@@ -152,9 +152,9 @@ export function ExperienceShowcase() {
                       <p className="text-slate-100 font-medium text-center group-hover:text-blue-400 transition-colors duration-300">
                         {company.name}
                       </p>
-                      <p className="text-slate-300 text-sm text-center">
+                      {/* <p className="text-slate-300 text-sm text-center">
                         {company.description}
-                      </p>
+                      </p> */}
                     </CardContent>
                   </Card>
                 </motion.div>
